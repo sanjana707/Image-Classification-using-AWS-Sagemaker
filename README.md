@@ -11,7 +11,7 @@ Download/Make the dataset available.
 The provided dataset is the dogbreed classification dataset which can be found in the classroom.
 The project is designed to be dataset independent so if there is a dataset that is more interesting or relevant to your work, you are welcome to use it to complete the project.
 
-### Access
+## Access
 Upload the data to an S3 bucket through the AWS Gateway so that SageMaker has access to the data. 
 
 ## Hyperparameter Tuning
