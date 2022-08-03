@@ -1,5 +1,7 @@
 # Image Classification using AWS SageMaker
 
+### Note: This is a guided project that I have created during Udacity's AWS ML Nanodegree program.
+
 This is a Dog Breed Classification Model. I have used AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. I have used the provided dog breed classification data set for this project.
 
 ## Project Set Up and Installation
